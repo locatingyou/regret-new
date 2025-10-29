@@ -1,0 +1,12 @@
+discord.py
+discord
+git+https://github.com/notiku/discord_ios/
+aiosqlite
+psutil
+pytz
+flask
+flask-cors
+wavelink
+httpx
+python-dotenv
+jishaku
